@@ -1,0 +1,11 @@
+{
+  "n_replies": 300,
+  "base": {
+    "loss": 3.4724,
+    "perplexity": 32.21
+  },
+  "lora": {
+    "loss": 2.4242,
+    "perplexity": 11.29
+  }
+}

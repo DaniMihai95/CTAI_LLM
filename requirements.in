@@ -1,0 +1,9 @@
+# Top-level dependencies. After installing, pin exact versions with:
+#   pip freeze > requirements.txt
+unsloth
+unsloth_zoo
+transformers>=5.0
+peft
+datasets
+accelerate
+torch
